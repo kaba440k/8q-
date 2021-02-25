@@ -1,0 +1,10 @@
+sum 10 10 5
+chars df12312312tdfyt
+multi 10 10 
+chars jkgbjh
+chars
+fibonacci 1 7
+delenie 60 12
+S_kruga 3
+hypotenuse 4 5 
+S_sfery 6
